@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 🥲 sad life shit man
+- ![alt text](image.png) toys story picture
+- 😂 lol 
 
 <!---
 arogyasetuindia/arogyasetuindia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
